@@ -1,5 +1,3 @@
 env/*
-__pycache__/*
-config.py
+__pycache__/
 app/api/__pycache__
-results/*

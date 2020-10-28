@@ -22,8 +22,7 @@ lazy-object-proxy==1.4.3
 Markdown==3.3.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
-noisemaker==0.1.317
-numpy==1.18.5
+-e git://github.com/aayars/py-noisemaker#egg=noisemaker
 oauthlib==3.1.0
 opensimplex==0.3
 opt-einsum==3.3.0
