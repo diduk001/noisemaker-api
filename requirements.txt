@@ -12,6 +12,7 @@ google-auth==1.22.1
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
 grpcio==1.32.0
+gunicorn==20.0.4
 h5py==2.10.0
 idna==2.10
 isort==5.6.4
@@ -22,7 +23,8 @@ lazy-object-proxy==1.4.3
 Markdown==3.3.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
--e git://github.com/aayars/py-noisemaker#egg=noisemaker
+-e git://github.com/aayars/py-noisemaker@aff8b71b1a2990e302f8895075421fc7d72cc96c#egg=noisemaker
+numpy==1.18.5
 oauthlib==3.1.0
 opensimplex==0.3
 opt-einsum==3.3.0
