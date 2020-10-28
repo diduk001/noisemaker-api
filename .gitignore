@@ -2,3 +2,4 @@ env/*
 __pycache__/*
 config.py
 app/api/__pycache__
+results/*
